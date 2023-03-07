@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 
 # Bem vindo ao meu perfil GitHub 👋
 
-## 📘 Projetos open source em que estou contribuindo
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  
-## 📕 Minha principais contribuições para projetos open source
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="" alt="readme-typing-svg"></a>
-
-
 ## 🛠️ Atualmente tenho experiencia e conhecimento com as ferramentas abaixo
 
 
